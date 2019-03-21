@@ -1127,4 +1127,11 @@ a.move-top span{
 	
 }
 
+.Contact-info { margin-bottom: 50px;   }
+.Contact-info .info-block .hi-icon { border: 2px solid white; color: white; font-size: 28px; height: 56px; line-height: 52px; margin-bottom: 15px; width: 56px;}
+.Contact-info .info-block .hi-icon:hover { color: darkred; align-content: center }
+.Contact-info .info-block p { line-height: 24px; color: navajowhite }
+
+
+
 /* //responsive */

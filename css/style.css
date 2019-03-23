@@ -638,10 +638,12 @@ h2.heading span,h3.heading span {
 
 .tab-main section {
     display: none;
+
 }
 
 .tab-main input.w3pvt-sm {
     display: none;
+
 }
 
 .tab-main label {
@@ -651,6 +653,7 @@ h2.heading span,h3.heading span {
     background: #333;
     font-size: 16px;
     letter-spacing: 1px;
+    margin-top: 4px;
 }
 
 .tab-main span {
